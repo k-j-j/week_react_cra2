@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/week_react_cra2/static/css/main.60e24456.css",
+    "main.js": "/week_react_cra2/static/js/main.bce07e30.js",
+    "static/js/453.44da931a.chunk.js": "/week_react_cra2/static/js/453.44da931a.chunk.js",
+    "index.html": "/week_react_cra2/index.html",
+    "main.60e24456.css.map": "/week_react_cra2/static/css/main.60e24456.css.map",
+    "main.bce07e30.js.map": "/week_react_cra2/static/js/main.bce07e30.js.map",
+    "453.44da931a.chunk.js.map": "/week_react_cra2/static/js/453.44da931a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.60e24456.css",
+    "static/js/main.bce07e30.js"
+  ]
+}
